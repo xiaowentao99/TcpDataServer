@@ -21,7 +21,7 @@ signals:
 
 
 public slots:
-    void newConnect(QTcpSocket* t);
+    void newConnection( );
 
 private:
 
