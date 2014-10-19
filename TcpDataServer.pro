@@ -18,7 +18,8 @@ TEMPLATE = app
 
 SOURCES += main.cpp \
     tcpserver.cpp \
-    connectionnode.cpp
+    connectionnode.cpp \
+    common.cpp
 
 HEADERS += \
     tcpserver.h \
